@@ -179,5 +179,51 @@
 // alert("The Playing 11 squad against India is: \n" + b);
 
 
-//---task-08-end---
-                      
+//---task-08-end--- 
+
+
+//ASSIGNMENT-#-01-//
+
+// Task-01. Write a script to greet your website visitor using JS alert box.
+
+alert("Hello User! Welcome to my website");
+
+
+
+
+// Task-02. Write a script to display following message on your web page:
+
+// alert("Error! Please enter a valid password.");
+
+
+
+
+// Task-03. Write a script to display following message on your web page: (Hint : Use line break)
+
+//alert("Welcome to JS Land...\nHappy Coding!");
+
+
+
+
+//Task-04. Write a script to display following messages in sequence:
+
+// alert("Welcome to JS Land...");
+// alert("Happy Coding!");
+
+
+
+//Task-05. Generate the following message through browser’s developer console:
+
+
+//Task-06. Make use of alerts in your new/existing HTML & CSS project.
+
+
+//Task-07. Practice placement of <script></script> element in following sections of your project in exercise 6:
+// a. Head
+// b. Body (before your page’s HTML)
+// c. Body (inside your page’s HTML)
+// d. Body (after your page’s HTML
+
+//Answer----> Check index.html.//
+
+
